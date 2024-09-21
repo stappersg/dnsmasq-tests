@@ -12,8 +12,8 @@ Dnsmasq is used in several products but have no automated tests.
 ## Requirements
 
 - needs dig from bind-utils
-- bats
-- kyua
+- [bats](https://github.com/sstephenson/bats)
+- [kyua](https://github.com/freebsd/kyua)
 - root access for configuring namespaces
 
 ## Configuration
